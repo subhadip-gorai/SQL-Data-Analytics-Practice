@@ -22,14 +22,15 @@ SQL-Data-Analytics-Practice/
 └── README.md
 
 
-🛠️ Tools & Technologies
+## 🛠️ Tools & Technologies
+
 - SQL
 - MySQL
 - Git
 - GitHub
 
 
-🎯 Purpose
+## 🎯 Purpose
 
 The purpose of this repository is to strengthen my SQL skills through
 hands-on practice and develop the ability to work with databases and
@@ -39,7 +40,7 @@ This repository also serves as a record of my continuous learning and
 development toward a career in Data Analytics
 
 
-💡 Practice Approach
+## 💡 Practice Approach
 
 Each topic contains practical SQL queries and exercises.
 
@@ -54,7 +55,7 @@ The practice focuses on:
 - Building a strong foundation for real-world data analysis
 
 
-🚀 Future Goals
+## 🚀 Future Goals
 
 As I progress, I plan to add:
 
@@ -66,7 +67,7 @@ As I progress, I plan to add:
 - Interview-focused SQL exercises
 
 
-📌 Repository Status
+## 📌 Repository Status
 
 🚧 Currently in progress
 
