@@ -10,6 +10,10 @@ database and table operations to advanced analytical SQL techniques.
 
 - SQL Basics
 - Database & Table Operations
+- DISTINCT — Finding unique values
+- Logical Operators — AND, OR, NOT
+- Pattern Matching
+- Wildcards — `%` and `_`
 
 ## 🗂️ Repository Structure
 
@@ -18,5 +22,8 @@ SQL-Data-Analytics-Practice/
 │
 ├── 01_SQL_Basics_Day_01/
 │   └── day_01_database_table_operations.sql
-|
+│   
+├── 02_SQL_Basics_Day_02/
+│   └── SQL_Basics_Day_02_Practice.sql
+│   
 └── README.md
