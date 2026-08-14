@@ -33,13 +33,13 @@ database and table operations to advanced analytical SQL techniques.
 ```text
 SQL-Data-Analytics-Practice/
 │
-├── SQL_Basics_Day_01/
+├── 01_SQL_Basics_Day_01/
 │   └── day_01_database_table_operations.sql
 │   
-├── SQL_Basics_Day_02/
-│   └── SQL_Basics_Day_02_Practice.sql
+├── 02_SQL_Basics_Day_02/
+│   └── day_02_SQL_Basics_Day_02_Practice.sql
 │
-├── SQL_Basics_Day_03/  
+├── 03_SQL_Basics_Day_03/  
 │   └── day_03_crud_operations_and_sql_clauses.sql
 │   
 └── README.md
