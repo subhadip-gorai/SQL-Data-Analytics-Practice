@@ -8,7 +8,7 @@ database and table operations to advanced analytical SQL techniques.
 
 ## 📚 Topics Covered
 
-- SQL Basics
+### SQL Basics
 - Database & Table Operations
 - Create tables
 - Add column
@@ -27,6 +27,18 @@ database and table operations to advanced analytical SQL techniques.
 - Delete Data
 - Update Data
 - Delete vs Truncate vs Drop
+- Data transfer operation
+- Change data type
+- Null and Empty values
+- Uppercase
+- Lowercase
+- Length
+- Combine columns
+- Extract specific characters
+- Trim
+- LPAD and RPAD
+- Reverse
+- Replace
 
 ## 🗂️ Repository Structure
 
@@ -37,9 +49,12 @@ SQL-Data-Analytics-Practice/
 │   └── day_01_database_table_operations.sql
 │   
 ├── 02_SQL_Basics_Day_02/
-│   └── day_02_SQL_Basics_Day_02_Practice.sql
+│   └── Day_02_SQL_Basics_Practice.sql
 │
 ├── 03_SQL_Basics_Day_03/  
-│   └── day_03_crud_operations_and_sql_clauses.sql
-│   
+│   └── Day_03_CRUD_Operations_and_SQL_Clauses.sql
+│
+├── 04_SQL_Basics_Day_04
+│   └── Day_04 _Data Transformation and String Operations.sql
+│ 
 └── README.md
