@@ -10,35 +10,12 @@ database and table operations to advanced analytical SQL techniques.
 
 ### SQL Basics
 - Database & Table Operations
-- Create tables
-- Add column
-- Delete column
-- Rename column
-- Where clause
-- DISTINCT — Finding unique values
-- Logical Operators — AND, OR, NOT
-- Pattern Matching
-- Wildcards — `%` and `_`
-- Limit clause
-- Order by clause
-- Offset clause
-- Insert Data
-- Read Data
-- Delete Data
-- Update Data
-- Delete vs Truncate vs Drop
-- Data transfer operation
-- Change data type
-- Null and Empty values
-- Uppercase
-- Lowercase
-- Length
-- Combine columns
-- Extract specific characters
-- Trim
-- LPAD and RPAD
-- Reverse
-- Replace
+- SELECT & Filtering
+- Sorting & limiting
+- GROUP BY & HAVING
+- String Operations
+- Data Transformation
+- CASE Statements
 
 ## 🗂️ Repository Structure
 
