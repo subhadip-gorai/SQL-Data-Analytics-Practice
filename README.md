@@ -16,6 +16,7 @@ database and table operations to advanced analytical SQL techniques.
 - String Operations
 - Data Transformation
 - CASE Statements
+- Aggregate Functions
 
 ## 🗂️ Repository Structure
 
@@ -31,7 +32,10 @@ SQL-Data-Analytics-Practice/
 ├── 03_SQL_Basics_Day_03/  
 │   └── Day_03_CRUD_Operations_and_SQL_Clauses.sql
 │
-├── 04_SQL_Basics_Day_04
+├── 04_SQL_Basics_Day_04/
 │   └── Day_04 _Data Transformation and String Operations.sql
-│ 
+│
+├── 05_SQL_Basics_Day_05/
+│   └── Day_04_Aggregate_Functions_Practice.sql
+│
 └── README.md
