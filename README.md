@@ -38,4 +38,7 @@ SQL-Data-Analytics-Practice/
 ├── 05_SQL_Basics_Day_05/
 │   └── Day_04_Aggregate_Functions_Practice.sql
 │
+├── 06_SQL_Basics_Revision_Day_06/
+│    └── Day_06_SQL_Basics_Revision_Practice.sql
+│
 └── README.md
