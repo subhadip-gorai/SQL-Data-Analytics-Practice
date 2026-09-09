@@ -18,6 +18,10 @@ database and table operations to advanced analytical SQL techniques.
 - CASE Statements
 - Aggregate Functions
 
+### SQL Intermediate
+- Constraints   
+- Data Integrity & Relationships
+
 ## 🗂️ Repository Structure
 
 ```text
@@ -40,5 +44,8 @@ SQL-Data-Analytics-Practice/
 │
 ├── 06_SQL_Basics_Revision_Day_06/
 │    └── Day_06_SQL_Basics_Revision_Practice.sql
+│
+├── 07_SQL_Intermediate_Day_07/
+│    └── Day_07_SQL_Constraints_Relationships.sql
 │
 └── README.md
