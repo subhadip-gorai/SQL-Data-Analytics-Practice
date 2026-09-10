@@ -45,7 +45,7 @@ SQL-Data-Analytics-Practice/
 ├── 06_SQL_Basics_Revision_Day_06/
 │    └── Day_06_SQL_Basics_Revision_Practice.sql
 │
-├── 07_SQL_Intermediate_Day_07/
+├── 07_SQL_Intermediate_Constraints_Day_07/
 │    └── Day_07_SQL_Constraints_Relationships.sql
 │
 └── README.md
