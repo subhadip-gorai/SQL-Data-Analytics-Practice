@@ -21,6 +21,9 @@ database and table operations to advanced analytical SQL techniques.
 ### SQL Intermediate
 - Constraints   
 - Data Integrity & Relationships
+- Joins
+- Set Operations
+
 
 ## 🗂️ Repository Structure
 
@@ -47,5 +50,8 @@ SQL-Data-Analytics-Practice/
 │
 ├── 07_SQL_Intermediate_Constraints_Day_07/
 │    └── Day_07_SQL_Constraints_Relationships.sql
+│
+├── 08_SQL_Intermediate_Joins_Day_08/
+│    └── Day_08_Joins_and_Set_operations.sql
 │
 └── README.md
