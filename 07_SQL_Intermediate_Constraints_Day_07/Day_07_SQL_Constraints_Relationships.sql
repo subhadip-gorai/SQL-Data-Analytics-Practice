@@ -1,4 +1,4 @@
--- DAY 06: SQL CONSTRAINTS RELATIONSHIP --
+-- DAY 07: SQL CONSTRAINTS RELATIONSHIP --
 
 create database college;
 use college;
