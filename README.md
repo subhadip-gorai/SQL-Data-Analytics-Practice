@@ -54,4 +54,7 @@ SQL-Data-Analytics-Practice/
 ├── 08_SQL_Intermediate_Joins_Day_08/
 │    └── Day_08_Joins_and_Set_operations.sql
 │
+├── 09_SQL_Challenging_Problems_Day_09/
+│    └──Day_9_SQL_Challenge_Solutions.sql
+│
 └── README.md
