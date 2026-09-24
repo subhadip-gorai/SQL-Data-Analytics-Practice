@@ -23,7 +23,12 @@ database and table operations to advanced analytical SQL techniques.
 - Data Integrity & Relationships
 - Joins
 - Set Operations
-
+- Subqueries
+- Correlated subqueries
+- Common Table Expression (CTE)
+- Multiple-table joins
+- Advanced aggregation
+- Conditional aggregation
 
 ## 🗂️ Repository Structure
 
@@ -55,6 +60,9 @@ SQL-Data-Analytics-Practice/
 │    └── Day_08_Joins_and_Set_operations.sql
 │
 ├── 09_SQL_Challenging_Problems_Day_09/
-│    └──Day_9_SQL_Challenge_Solutions.sql
+│    └── Day_9_SQL_Challenge_Solutions.sql
+│
+├── 10_SQL_Intermediate_CASE_Subqueries_CTEs_Day_10/
+│    └── Day_10_Case_Subqueries_CTEs_practice.sql
 │
 └── README.md
