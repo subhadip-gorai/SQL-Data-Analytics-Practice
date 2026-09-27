@@ -29,6 +29,8 @@ database and table operations to advanced analytical SQL techniques.
 - Multiple-table joins
 - Advanced aggregation
 - Conditional aggregation
+- Date Functions
+- NULL Handling
 
 ## 🗂️ Repository Structure
 
@@ -45,10 +47,10 @@ SQL-Data-Analytics-Practice/
 │   └── Day_03_CRUD_Operations_and_SQL_Clauses.sql
 │
 ├── 04_SQL_Basics_Day_04/
-│   └── Day_04 _Data Transformation and String Operations.sql
+│    └── Day_04 _Data Transformation and String Operations.sql
 │
 ├── 05_SQL_Basics_Day_05/
-│   └── Day_04_Aggregate_Functions_Practice.sql
+│    └── Day_04_Aggregate_Functions_Practice.sql
 │
 ├── 06_SQL_Basics_Revision_Day_06/
 │    └── Day_06_SQL_Basics_Revision_Practice.sql
@@ -64,5 +66,8 @@ SQL-Data-Analytics-Practice/
 │
 ├── 10_SQL_Intermediate_CASE_Subqueries_CTEs_Day_10/
 │    └── Day_10_Case_Subqueries_CTEs_practice.sql
+│
+├── 11_Intermediate_SQL_Self_Join_Date_Functions/
+│    └── Day_11_Self_Join_and_Date_Functions.sql
 │
 └── README.md
