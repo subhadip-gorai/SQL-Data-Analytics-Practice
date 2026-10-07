@@ -70,4 +70,7 @@ SQL-Data-Analytics-Practice/
 ├── 11_Intermediate_SQL_Self_Join_Date_Functions/
 │    └── Day_11_Self_Join_and_Date_Functions.sql
 │
+├── 12_Intermediate_SQL_Mixed_Practice_Day_12/
+│     └── Day_12_sql_mixed_practice_assignments.sql
+│
 └── README.md
