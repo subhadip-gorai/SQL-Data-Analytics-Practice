@@ -32,6 +32,9 @@ database and table operations to advanced analytical SQL techniques.
 - Date Functions
 - NULL Handling
 
+### SQL Advance
+- Window Functions
+
 ## 🗂️ Repository Structure
 
 ```text
@@ -75,5 +78,8 @@ SQL-Data-Analytics-Practice/
 │
 ├── 13_SQL_Mixed_Practice_Day_13/
 │    └── Day_13_Financial_Transaction_Analysis.sql
+│
+├── 14_Advanced_SQL_Window_Functions_Day_14/
+│    └── Day_14_SQL_Window_Functions_ Practice_Assignment.sql
 │
 └── README.md
